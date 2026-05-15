@@ -4,7 +4,5 @@ const palindromes = function (strings) {
     return string === reversedString;
 };
 
-console.log(palindromes("race car"))
-
 // Do not edit below this line
 module.exports = palindromes;
